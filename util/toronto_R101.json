@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "lat": 43.63107,
+    "lon": -79.527015,
+    "label": "Customer 1",
+    "time_window": [
+      161,
+      171
+    ]
+  },
+  {
+    "id": 2,
+    "lat": 42.99107,
+    "lon": -79.647015,
+    "label": "Customer 2",
+    "time_window": [
+      50,
+      60
+    ]
+  },
+  {
+    "id": 3,
+    "lat": 43.55107,
+    "lon": -79.247015,
+    "label": "Customer 3",
+    "time_window": [
+      116,
+      126
+    ]
+  },
+  {
+    "id": 4,
+    "lat": 43.05107,
+    "lon": -79.247015,
+    "label": "Customer 4",
+    "time_window": [
+      149,
+      159
+    ]
+  },
+  {
+    "id": 5,
+    "lat": 43.25107,
+    "lon": -80.047015,
+    "label": "Customer 5",
+    "time_window": [
+      34,
+      44
+    ]
+  },
+  {
+    "id": 6,
+    "lat": 43.25107,
+    "lon": -79.847015,
+    "label": "Customer 6",
+    "time_window": [
+      99,
+      109
+    ]
+  },
+  {
+    "id": 7,
+    "lat": 43.65107,
+    "lon": -79.947015,
+    "label": "Customer 7",
+    "time_window": [
+      81,
+      91
+    ]
+  },
+  {
+    "id": 8,
+    "lat": 43.51107,
+    "lon": -80.147015,
+    "label": "Customer 8",
+    "time_window": [
+      95,
+      105
+    ]
+  },
+  {
+    "id": 9,
+    "lat": 43.85107,
+    "lon": -79.247015,
+    "label": "Customer 9",
+    "time_window": [
+      97,
+      107
+    ]
+  },
+  {
+    "id": 10,
+    "lat": 43.85107,
+    "lon": -79.747015,
+    "label": "Customer 10",
+    "time_window": [
+      124,
+      134
+    ]
+  },
+  {
+    "id": 11,
+    "lat": 43.95107,
+    "lon": -79.947015,
+    "label": "Customer 11",
+    "time_window": [
+      67,
+      77
+    ]
+  },
+  {
+    "id": 12,
+    "lat": 43.35107,
+    "lon": -79.347015,
+    "label": "Customer 12",
+    "time_window": [
+      63,
+      73
+    ]
+  },
+  {
+    "id": 13,
+    "lat": 43.15107,
+    "lon": -79.747015,
+    "label": "Customer 13",
+    "time_window": [
+      159,
+      169
+    ]
+  },
+  {
+    "id": 14,
+    "lat": 42.85107,
+    "lon": -80.047015,
+    "label": "Customer 14",
+    "time_window": [
+      32,
+      42
+    ]
+  },
+  {
+    "id": 15,
+    "lat": 42.75107,
+    "lon": -79.747015,
+    "label": "Customer 15",
+    "time_window": [
+      61,
+      71
+    ]
+  },
+  {
+    "id": 16,
+    "lat": 43.05107,
+    "lon": -80.147015,
+    "label": "Customer 16",
+    "time_window": [
+      75,
+      85
+    ]
+  },
+  {
+    "id": 17,
+    "lat": 43.25107,
+    "lon": -80.247015,
+    "label": "Customer 17",
+    "time_window": [
+      157,
+      167
+    ]
+  },
+  {
+    "id": 18,
+    "lat": 43.45107,
+    "lon": -79.947015,
+    "label": "Customer 18",
+    "time_window": [
+      87,
+      97
+    ]
+  },
+  {
+    "id": 19,
+    "lat": 43.85107,
+    "lon": -80.047015,
+    "label": "Customer 19",
+    "time_window": [
+      76,
+      86
+    ]
+  },
+  {
+    "id": 20,
+    "lat": 43.95107,
+    "lon": -79.447015,
+    "label": "Customer 20",
+    "time_window": [
+      126,
+      136
+    ]
+  },
+  {
+    "id": 21,
+    "lat": 43.05107,
+    "lon": -79.447015,
+    "label": "Customer 21",
+    "time_window": [
+      62,
+      72
+    ]
+  },
+  {
+    "id": 22,
+    "lat": 42.85107,
+    "lon": -79.447015,
+    "label": "Customer 22",
+    "time_window": [
+      97,
+      107
+    ]
+  },
+  {
+    "id": 23,
+    "lat": 42.75107,
+    "lon": -79.247015,
+    "label": "Customer 23",
+    "time_window": [
+      68,
+      78
+    ]
+  },
+  {
+    "id": 24,
+    "lat": 43.35107,
+    "lon": -79.047015,
+    "label": "Customer 24",
+    "time_window": [
+      153,
+      163
+    ]
+  },
+  {
+    "id": 25,
+    "lat": 43.05107,
+    "lon": -79.047015,
+    "label": "Customer 25",
+    "time_window": [
+      172,
+      182
+    ]
+  },
+  {
+    "id": 26,
+    "lat": 43.25107,
+    "lon": -79.447015,
+    "label": "Customer 26",
+    "time_window": [
+      132,
+      142
+    ]
+  },
+  {
+    "id": 27,
+    "lat": 43.45107,
+    "lon": -79.647015,
+    "label": "Customer 27",
+    "time_window": [
+      37,
+      47
+    ]
+  },
+  {
+    "id": 28,
+    "lat": 43.39107,
+    "lon": -79.527015,
+    "label": "Customer 28",
+    "time_window": [
+      39,
+      49
+    ]
+  },
+  {
+    "id": 29,
+    "lat": 43.49107,
+    "lon": -79.067015,
+    "label": "Customer 29",
+    "time_window": [
+      63,
+      73
+    ]
+  },
+  {
+    "id": 30,
+    "lat": 43.85107,
+    "lon": -79.547015,
+    "label": "Customer 30",
+    "time_window": [
+      71,
+      81
+    ]
+  },
+  {
+    "id": 31,
+    "lat": 43.69107,
+    "lon": -79.727015,
+    "label": "Customer 31",
+    "time_window": [
+      50,
+      60
+    ]
+  },
+  {
+    "id": 32,
+    "lat": 44.03107,
+    "lon": -79.647015,
+    "label": "Customer 32",
+    "time_window": [
+      141,
+      151
+    ]
+  },
+  {
+    "id": 33,
+    "lat": 43.69107,
+    "lon": -79.287015,
+    "label": "Customer 33",
+    "time_window": [
+      37,
+      47
+    ]
+  },
+  {
+    "id": 34,
+    "lat": 43.75107,
+    "lon": -79.047015,
+    "label": "Customer 34",
+    "time_window": [
+      117,
+      127
+    ]
+  },
+  {
+    "id": 35,
+    "lat": 43.95107,
+    "lon": -79.087015,
+    "label": "Customer 35",
+    "time_window": [
+      143,
+      153
+    ]
+  },
+  {
+    "id": 36,
+    "lat": 43.85107,
+    "lon": -80.307015,
+    "label": "Customer 36",
+    "time_window": [
+      41,
+      51
+    ]
+  },
+  {
+    "id": 37,
+    "lat": 43.05107,
+    "lon": -79.947015,
+    "label": "Customer 37",
+    "time_window": [
+      134,
+      144
+    ]
+  },
+  {
+    "id": 38,
+    "lat": 42.75107,
+    "lon": -80.247015,
+    "label": "Customer 38",
+    "time_window": [
+      83,
+      93
+    ]
+  },
+  {
+    "id": 39,
+    "lat": 42.89107,
+    "lon": -79.147015,
+    "label": "Customer 39",
+    "time_window": [
+      44,
+      54
+    ]
+  },
+  {
+    "id": 40,
+    "lat": 43.15107,
+    "lon": -79.547015,
+    "label": "Customer 40",
+    "time_window": [
+      85,
+      95
+    ]
+  },
+  {
+    "id": 41,
+    "lat": 42.79107,
+    "lon": -79.507015,
+    "label": "Customer 41",
+    "time_window": [
+      97,
+      107
+    ]
+  },
+  {
+    "id": 42,
+    "lat": 42.89107,
+    "lon": -79.867015,
+    "label": "Customer 42",
+    "time_window": [
+      31,
+      41
+    ]
+  },
+  {
+    "id": 43,
+    "lat": 42.71107,
+    "lon": -79.887015,
+    "label": "Customer 43",
+    "time_window": [
+      132,
+      142
+    ]
+  },
+  {
+    "id": 44,
+    "lat": 42.93107,
+    "lon": -80.127015,
+    "label": "Customer 44",
+    "time_window": [
+      69,
+      79
+    ]
+  },
+  {
+    "id": 45,
+    "lat": 43.41107,
+    "lon": -80.227015,
+    "label": "Customer 45",
+    "time_window": [
+      32,
+      42
+    ]
+  },
+  {
+    "id": 46,
+    "lat": 43.61107,
+    "lon": -80.307015,
+    "label": "Customer 46",
+    "time_window": [
+      117,
+      127
+    ]
+  },
+  {
+    "id": 47,
+    "lat": 43.77107,
+    "lon": -80.187015,
+    "label": "Customer 47",
+    "time_window": [
+      51,
+      61
+    ]
+  },
+  {
+    "id": 48,
+    "lat": 43.69107,
+    "lon": -80.087015,
+    "label": "Customer 48",
+    "time_window": [
+      165,
+      175
+    ]
+  },
+  {
+    "id": 49,
+    "lat": 44.01107,
+    "lon": -80.227015,
+    "label": "Customer 49",
+    "time_window": [
+      108,
+      118
+    ]
+  },
+  {
+    "id": 50,
+    "lat": 43.59107,
+    "lon": -79.407015,
+    "label": "Customer 50",
+    "time_window": [
+      124,
+      134
+    ]
+  },
+  {
+    "id": 51,
+    "lat": 43.81107,
+    "lon": -79.367015,
+    "label": "Customer 51",
+    "time_window": [
+      88,
+      98
+    ]
+  },
+  {
+    "id": 52,
+    "lat": 43.51107,
+    "lon": -79.807015,
+    "label": "Customer 52",
+    "time_window": [
+      52,
+      62
+    ]
+  },
+  {
+    "id": 53,
+    "lat": 43.27107,
+    "lon": -79.607015,
+    "label": "Customer 53",
+    "time_window": [
+      95,
+      105
+    ]
+  },
+  {
+    "id": 54,
+    "lat": 43.23107,
+    "lon": -79.207015,
+    "label": "Customer 54",
+    "time_window": [
+      140,
+      150
+    ]
+  },
+  {
+    "id": 55,
+    "lat": 43.11107,
+    "lon": -79.087015,
+    "label": "Customer 55",
+    "time_window": [
+      136,
+      146
+    ]
+  },
+  {
+    "id": 56,
+    "lat": 42.89107,
+    "lon": -79.287015,
+    "label": "Customer 56",
+    "time_window": [
+      130,
+      140
+    ]
+  },
+  {
+    "id": 57,
+    "lat": 42.89107,
+    "lon": -79.707015,
+    "label": "Customer 57",
+    "time_window": [
+      101,
+      111
+    ]
+  },
+  {
+    "id": 58,
+    "lat": 43.17107,
+    "lon": -79.627015,
+    "label": "Customer 58",
+    "time_window": [
+      200,
+      210
+    ]
+  },
+  {
+    "id": 59,
+    "lat": 43.13107,
+    "lon": -79.927015,
+    "label": "Customer 59",
+    "time_window": [
+      18,
+      28
+    ]
+  },
+  {
+    "id": 60,
+    "lat": 43.33107,
+    "lon": -80.007015,
+    "label": "Customer 60",
+    "time_window": [
+      162,
+      172
+    ]
+  },
+  {
+    "id": 61,
+    "lat": 43.13107,
+    "lon": -80.107015,
+    "label": "Customer 61",
+    "time_window": [
+      76,
+      86
+    ]
+  },
+  {
+    "id": 62,
+    "lat": 43.81107,
+    "lon": -79.867015,
+    "label": "Customer 62",
+    "time_window": [
+      58,
+      68
+    ]
+  },
+  {
+    "id": 63,
+    "lat": 44.03107,
+    "lon": -79.807015,
+    "label": "Customer 63",
+    "time_window": [
+      34,
+      44
+    ]
+  },
+  {
+    "id": 64,
+    "lat": 44.19107,
+    "lon": -80.047015,
+    "label": "Customer 64",
+    "time_window": [
+      73,
+      83
+    ]
+  },
+  {
+    "id": 65,
+    "lat": 44.19107,
+    "lon": -79.107015,
+    "label": "Customer 65",
+    "time_window": [
+      51,
+      61
+    ]
+  },
+  {
+    "id": 66,
+    "lat": 44.11107,
+    "lon": -79.367015,
+    "label": "Customer 66",
+    "time_window": [
+      127,
+      137
+    ]
+  },
+  {
+    "id": 67,
+    "lat": 42.75107,
+    "lon": -79.007015,
+    "label": "Customer 67",
+    "time_window": [
+      83,
+      93
+    ]
+  },
+  {
+    "id": 68,
+    "lat": 43.43107,
+    "lon": -79.227015,
+    "label": "Customer 68",
+    "time_window": [
+      142,
+      152
+    ]
+  },
+  {
+    "id": 69,
+    "lat": 43.59107,
+    "lon": -79.607015,
+    "label": "Customer 69",
+    "time_window": [
+      50,
+      60
+    ]
+  },
+  {
+    "id": 70,
+    "lat": 43.77107,
+    "lon": -79.607015,
+    "label": "Customer 70",
+    "time_window": [
+      182,
+      192
+    ]
+  },
+  {
+    "id": 71,
+    "lat": 44.01107,
+    "lon": -79.207015,
+    "label": "Customer 71",
+    "time_window": [
+      77,
+      87
+    ]
+  },
+  {
+    "id": 72,
+    "lat": 42.97107,
+    "lon": -79.407015,
+    "label": "Customer 72",
+    "time_window": [
+      35,
+      45
+    ]
+  },
+  {
+    "id": 73,
+    "lat": 42.99107,
+    "lon": -79.467015,
+    "label": "Customer 73",
+    "time_window": [
+      78,
+      88
+    ]
+  },
+  {
+    "id": 74,
+    "lat": 42.91107,
+    "lon": -79.427015,
+    "label": "Customer 74",
+    "time_window": [
+      149,
+      159
+    ]
+  },
+  {
+    "id": 75,
+    "lat": 42.87107,
+    "lon": -79.367015,
+    "label": "Customer 75",
+    "time_window": [
+      69,
+      79
+    ]
+  },
+  {
+    "id": 76,
+    "lat": 43.49107,
+    "lon": -79.367015,
+    "label": "Customer 76",
+    "time_window": [
+      73,
+      83
+    ]
+  },
+  {
+    "id": 77,
+    "lat": 43.51107,
+    "lon": -79.287015,
+    "label": "Customer 77",
+    "time_window": [
+      179,
+      189
+    ]
+  },
+  {
+    "id": 78,
+    "lat": 43.69107,
+    "lon": -79.127015,
+    "label": "Customer 78",
+    "time_window": [
+      96,
+      106
+    ]
+  },
+  {
+    "id": 79,
+    "lat": 43.61107,
+    "lon": -79.207015,
+    "label": "Customer 79",
+    "time_window": [
+      92,
+      102
+    ]
+  },
+  {
+    "id": 80,
+    "lat": 43.39107,
+    "lon": -79.227015,
+    "label": "Customer 80",
+    "time_window": [
+      182,
+      192
+    ]
+  },
+  {
+    "id": 81,
+    "lat": 43.73107,
+    "lon": -79.247015,
+    "label": "Customer 81",
+    "time_window": [
+      94,
+      104
+    ]
+  },
+  {
+    "id": 82,
+    "lat": 43.59107,
+    "lon": -80.047015,
+    "label": "Customer 82",
+    "time_window": [
+      55,
+      65
+    ]
+  },
+  {
+    "id": 83,
+    "lat": 43.39107,
+    "lon": -80.067015,
+    "label": "Customer 83",
+    "time_window": [
+      44,
+      54
+    ]
+  },
+  {
+    "id": 84,
+    "lat": 43.27107,
+    "lon": -80.127015,
+    "label": "Customer 84",
+    "time_window": [
+      101,
+      111
+    ]
+  },
+  {
+    "id": 85,
+    "lat": 43.09107,
+    "lon": -80.027015,
+    "label": "Customer 85",
+    "time_window": [
+      91,
+      101
+    ]
+  },
+  {
+    "id": 86,
+    "lat": 43.01107,
+    "lon": -80.267015,
+    "label": "Customer 86",
+    "time_window": [
+      94,
+      104
+    ]
+  },
+  {
+    "id": 87,
+    "lat": 43.01107,
+    "lon": -79.787015,
+    "label": "Customer 87",
+    "time_window": [
+      93,
+      103
+    ]
+  },
+  {
+    "id": 88,
+    "lat": 43.69107,
+    "lon": -79.827015,
+    "label": "Customer 88",
+    "time_window": [
+      74,
+      84
+    ]
+  },
+  {
+    "id": 89,
+    "lat": 43.35107,
+    "lon": -79.827015,
+    "label": "Customer 89",
+    "time_window": [
+      176,
+      186
+    ]
+  },
+  {
+    "id": 90,
+    "lat": 43.99107,
+    "lon": -79.727015,
+    "label": "Customer 90",
+    "time_window": [
+      95,
+      105
+    ]
+  },
+  {
+    "id": 91,
+    "lat": 43.03107,
+    "lon": -80.047015,
+    "label": "Customer 91",
+    "time_window": [
+      160,
+      170
+    ]
+  },
+  {
+    "id": 92,
+    "lat": 43.09107,
+    "lon": -79.907015,
+    "label": "Customer 92",
+    "time_window": [
+      18,
+      28
+    ]
+  },
+  {
+    "id": 93,
+    "lat": 43.13107,
+    "lon": -79.987015,
+    "label": "Customer 93",
+    "time_window": [
+      188,
+      198
+    ]
+  },
+  {
+    "id": 94,
+    "lat": 43.19107,
+    "lon": -79.827015,
+    "label": "Customer 94",
+    "time_window": [
+      100,
+      110
+    ]
+  },
+  {
+    "id": 95,
+    "lat": 43.13107,
+    "lon": -79.847015,
+    "label": "Customer 95",
+    "time_window": [
+      39,
+      49
+    ]
+  },
+  {
+    "id": 96,
+    "lat": 43.19107,
+    "lon": -79.907015,
+    "label": "Customer 96",
+    "time_window": [
+      135,
+      145
+    ]
+  },
+  {
+    "id": 97,
+    "lat": 43.07107,
+    "lon": -79.847015,
+    "label": "Customer 97",
+    "time_window": [
+      133,
+      143
+    ]
+  },
+  {
+    "id": 98,
+    "lat": 43.07107,
+    "lon": -79.967015,
+    "label": "Customer 98",
+    "time_window": [
+      58,
+      68
+    ]
+  },
+  {
+    "id": 99,
+    "lat": 43.17107,
+    "lon": -79.947015,
+    "label": "Customer 99",
+    "time_window": [
+      83,
+      93
+    ]
+  },
+  {
+    "id": 100,
+    "lat": 43.01107,
+    "lon": -79.987015,
+    "label": "Customer 100",
+    "time_window": [
+      185,
+      195
+    ]
+  }
+]

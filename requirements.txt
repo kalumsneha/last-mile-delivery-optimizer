@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+deap
+requests
+streamlit
+folium
+streamlit-folium
+matplotlib
+python-dotenv
+pandas
