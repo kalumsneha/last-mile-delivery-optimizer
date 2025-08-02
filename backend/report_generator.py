@@ -26,9 +26,11 @@ def generate_report(csv_path='backend/results.csv', output_dir='backend/reports'
 
     # Plot: Bar chart for distance, time, cost
     plt.figure(figsize=(12, 6))
-    melt_df = df.melt(id_vars=["optimizer"], value_vars=["distance_km", "travel_time_sec", "cost"])
+    df["travel_time_min"] = df["travel_time_sec"] / 60
+    melt_df = df.melt(id_vars=["optimizer"], value_vars=["distance_km", "travel_time_min", "cost"])
+
     sns.barplot(data=melt_df, x="optimizer", y="value", hue="variable")
-    plt.title("Comparison of Distance, Travel Time, and Cost")
+    plt.title("Comparison of Distance (km), Travel Time (min), and Cost ($)")
     plt.ylabel("Metric Value")
     plt.xticks(rotation=0)
     plt.tight_layout()
@@ -44,7 +46,8 @@ def generate_report(csv_path='backend/results.csv', output_dir='backend/reports'
         if len(subset) < 3:
             continue
 
-        radar_data = subset.set_index("optimizer")[["distance_km", "travel_time_sec", "cost"]]
+        radar_data = subset.groupby("optimizer")[["distance_km", "travel_time_sec", "cost"]].mean()
+
         radar_data = (radar_data - radar_data.min()) / (radar_data.max() - radar_data.min() + 1e-6)
 
         labels = radar_data.columns.tolist()
@@ -53,7 +56,7 @@ def generate_report(csv_path='backend/results.csv', output_dir='backend/reports'
 
         plt.figure(figsize=(6, 6))
         for optimizer in radar_data.index:
-            values = radar_data.loc[optimizer].tolist()
+            values = radar_data.loc[optimizer].values.flatten().tolist()
             values += values[:1]
             plt.polar(angles, values, label=optimizer)
         plt.xticks(angles[:-1], labels)
