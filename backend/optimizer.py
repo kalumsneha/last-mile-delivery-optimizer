@@ -9,7 +9,7 @@ from shapely.geometry import Point
 
 # Load congestion zones once
 try:
-    congestion_gdf = gpd.read_file("backend/congestion_zones.geojson")  # Adjust path as needed
+    congestion_gdf = gpd.read_file("congestion_zones.geojson")  # Adjust path as needed
 except Exception as e:
     print(f"⚠️ Failed to load congestion zones: {e}")
     congestion_gdf = None

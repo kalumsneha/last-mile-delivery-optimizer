@@ -3,7 +3,7 @@ import json
 import os
 from collections import defaultdict
 from datetime import datetime
-from backend.optimizer import evaluate_with_details
+from optimizer import evaluate_with_details
 
 def aco_optimize_routes(points, base_point, point_map,
                         num_ants=5, num_iterations=30,
