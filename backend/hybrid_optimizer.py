@@ -1,7 +1,7 @@
 import random
 from deap import base, creator, tools
-from aco_optimizer import aco_optimize_routes, compute_cost_matrix
-from optimizer import evaluate_with_details
+from backend.aco_optimizer import aco_optimize_routes, compute_cost_matrix
+from backend.optimizer import evaluate_with_details
 
 def hybrid_optimize_routes(points, base_point, point_map,
                            population_size=30, generations=40,
